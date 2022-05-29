@@ -1,0 +1,7 @@
+Rectangle&432,156&611,255&GREEN&false
+Rectangle&753,156&936,259&BLUE&false
+Line&384,71&634,123&YELLOW&false
+Line&933,68&714,120&YELLOW&false
+Line&617,393&649,403&RED&false
+Line&682,399&712,388&RED&false
+Circle&482,473&858,622&BLUE&true
